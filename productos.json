@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "yerba",
+    "description": "Piporé",
+    "price": 950,
+    "img": "sin imagen",
+    "code": "333",
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "title": "yerba",
+    "description": "Canarias",
+    "price": 3050,
+    "img": "sin imagen",
+    "code": "303",
+    "stock": 10
+  }
+]
